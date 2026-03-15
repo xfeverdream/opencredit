@@ -1,0 +1,31 @@
+# UTF-8
+# For more info: https://pyinstaller.org/en/stable/usage.html#adding-version-information-to-a-windows-exe
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1,0,0,0),
+    prodvers=(1,0,0,0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0,0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '040904B0',
+        [StringStruct('CompanyName', 'xfeverdream'),
+         StringStruct('FileDescription', 'opencredit software'),
+         StringStruct('FileVersion', '0.1.0.release-rev0'),
+         StringStruct('InternalName', 'opencredit.exe'),
+         StringStruct('LegalCopyright', '© 2026 Kian Schmalzl'),
+         StringStruct('OriginalFilename', 'opencredit.exe'),
+         StringStruct('ProductName', 'opencredit'),
+         StringStruct('ProductVersion', '0.1.0.release-rev0')])
+      ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
