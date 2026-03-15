@@ -1,5 +1,5 @@
 ('C:\\Users\\kians\\Desktop\\opencredit\\dist\\main.exe',
- False,
+ True,
  False,
  False,
  ['C:\\Users\\kians\\Desktop\\opencredit\\icon.ico'],
@@ -102,9 +102,9 @@
  [],
  False,
  False,
- 1773593944,
- [('runw.exe',
-   'C:\\Users\\kians\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+ 1773594459,
+ [('run.exe',
+   'C:\\Users\\kians\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
  'C:\\Program '
  'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\python313.dll')
