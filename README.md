@@ -70,21 +70,7 @@ After launching the program:
 
 ### Installation
 
-1. **Requirements**:
-
-- Python 3.7+  
-- No external dependencies are required; the program uses standard Python libraries.
-
-2. **Setup**:
-
-```bash
-# Clone the repository
-git clone https://github.com/xfeverdream/opencredit.git
-cd credit-log-system
-
-# Run the program
-python credit_log.py
-```
+Download the pre-built executable from the releases page and open it in your terminal.
 
 ### Credits
 developed by Kian Schmalzl (xfeverdream)
